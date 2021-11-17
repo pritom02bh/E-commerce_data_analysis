@@ -1,3 +1,3 @@
 ## FIFA-19 Player Data Analysis
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/pritom02bh/FIFA-19_players_analysis/blob/main/resources/fifa19_logo_1.png)
 Dataset : FIFA 19 complete player dataset
