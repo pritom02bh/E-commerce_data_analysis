@@ -1,3 +1,3 @@
 ## E-COMMERCE DATA ANALYSIS
-![alt text](https://github.com/pritom02bh/FIFA-19_players_analysis/blob/main/resources/fifa19_logo_1.png)
+![alt text](https://github.com/pritom02bh/ECOM_data_analysis/blob/main/resources/1-1.jpg)
 Dataset : FIFA 19 complete player dataset
